@@ -1,5 +1,8 @@
 # ESP32 Toggle and Text WebServer
 
+## Companion App
+This server is designed to work with the [React Native ESP32 Control App](https://git@github.com:Ajibade-Judah/ESP32SenderApp.git).
+
 A simple ESP32 WebServer that receives toggle states and text messages from a mobile app and displays them on the Serial Monitor.
 
 ## Hardware Requirements
